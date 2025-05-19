@@ -30,7 +30,7 @@ A RESTful API built with **Node.js**, **Express**, **MongoDB**, and **JWT Authen
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/book-review-api.git
+git clone https://github.com/HarshSidd35/billeasy.git
 cd book-review-api
 ```
 
